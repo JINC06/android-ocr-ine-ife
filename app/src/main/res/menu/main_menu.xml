@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ife_anverso" android:title="IFE Anverso" />
+    <item android:id="@+id/ife_reverso" android:title="IFE Reverso" />
+    <item android:id="@+id/ife_reverso_vertical" android:title="IFE Reverso Vertical" />
+    <item android:id="@+id/ine_anverso" android:title="INE Anverso" />
+    <item android:id="@+id/ine_reverso" android:title="INE Reverso" />
+
+</menu>

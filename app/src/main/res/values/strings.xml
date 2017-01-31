@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test OCR</string>
+    <string name="getting_info">Obteniendo información de imagen...</string>
+    <string name="test_ife">TEST IFE</string>
+    <string name="test_ife_b">TEST IFE B</string>
+    <string name="test_ife_c">TEST IFE C</string>
+    <string name="test_ine_d">TEST INE D</string>
+    <string name="test_ine_e">TEST INE E</string>
+    <string name="test_photo">TEST PHOTO</string>
+</resources>
